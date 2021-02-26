@@ -18,7 +18,7 @@ Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
 
-
+require('scripts')
 /*$(document).ready(function() {
 	alert('foobar');
 });
