@@ -10016,6 +10016,13 @@ h3 {
   color: #2c3e50 !important;
   font-size: 2rem;
 }
+
+.divider-custom .divider-custom-icon:hover {
+
+  transform: rotate(40deg);
+
+}
+
 .divider-custom.divider-light .divider-custom-line {
   background-color: #fff;
 }
